@@ -1,3 +1,4 @@
+![logo](https://github.com/amir7252/amir7252/blob/main/Amir%20Banner%20.png)
 <h1 align="center">Hi 👋, I'm Amir Khan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://media1.tenor.com/m/2nKSTDDekOgAAAAC/coding-kira.gif">
